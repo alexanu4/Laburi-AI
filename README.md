@@ -1,1 +1,1 @@
-#Laburi-AI
+#Rezolvari la laburile de AI
