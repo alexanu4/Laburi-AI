@@ -1,1 +1,1 @@
-# lab02-AI
+#Laburi-AI
